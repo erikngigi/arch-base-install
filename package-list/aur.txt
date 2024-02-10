@@ -1,0 +1,10 @@
+betterlockscreen 4.2.0-1
+downgrade 11.3.0-1
+siji-git r23.c691f20-2
+staruml 6.0.1-1
+tela-icon-theme 2023.06.25-1
+thorium-browser-sse3-bin 120.0.6099.235-1
+tremc 0.9.3-2
+xdman-beta-bin 8.0.29-8
+yay 12.2.0-1
+zoho-mail-desktop 1.6.1-1
