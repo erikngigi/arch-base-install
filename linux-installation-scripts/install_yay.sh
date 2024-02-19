@@ -1,16 +1,17 @@
 #!/bin/bash
 
 # Create temporary install directory
-mkdir /tmp/yay
+# mkdir /tmp/yay
 
 # change into directory
-cd /tmp/yay
+cd /tmp/
 
 # git clone yay and make 
 git clone https://aur.archlinux.org/yay.git
+cd yay
 makepkg -si
 
 # exit and delete directory
-cd
-rm -rf /tmp/yay
-yay --version
+# cd
+# rm -rf /tmp/yay
+# yay --version
