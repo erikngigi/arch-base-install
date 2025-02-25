@@ -11,7 +11,4 @@ git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
 
-# exit and delete directory
-# cd
-# rm -rf /tmp/yay
-# yay --version
+yay --version

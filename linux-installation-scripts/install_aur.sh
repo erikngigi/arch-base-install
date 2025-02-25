@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yay -S betterlockscreen downgrade siji-git staruml tremc xdman-beta-bin --noconfirm 
+yay -S betterlockscreen brave-bin downgrade mycli siji-git spotify szyszka-bin tremc upwork vscodium-bin --noconfirm 
